@@ -2,6 +2,6 @@ Imports System
 
 Module Program
     Sub Main(args As String())
-        Console.WriteLine("Hello World!")
+        Consolhhe.WriteLine("Hello World!")
     End Sub
 End Module
